@@ -117,3 +117,4 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 # Allow Render domain
 import os
 ALLOWED_HOSTS = ['*']
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
